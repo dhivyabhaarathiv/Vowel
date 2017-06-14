@@ -8,7 +8,7 @@ public class Vowel
         if(c=='a' || c=='A' || c=='e' || c=='E' || c=='i'|| c=='I' ||c=='o' ||c=='O'
         || c=='u' || c=='U')
         {
-            System.out.println("it is an alphabet");
+            System.out.println("it is a vowel");
         }
         else
         {
